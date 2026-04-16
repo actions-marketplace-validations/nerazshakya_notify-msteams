@@ -1,4 +1,4 @@
-name: 'Notify Microsoft Teams'
+name: 'Notify to Microsoft Teams'
 description: 'Send GitHub Actions notifications to Microsoft Teams using Adaptive Cards'
 author: 'nerazshakya'
 branding:
